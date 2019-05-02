@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\bin\Debug\Care Pathway.exe.config
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\bin\Debug\Care Pathway.exe
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\bin\Debug\Care Pathway.pdb
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care Pathway.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care_Pathway.Form.resources
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care_Pathway.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care Pathway.csproj.GenerateResource.Cache
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care Pathway.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care Pathway.exe
+C:\Users\Администратор\source\repos\Care Pathway\Care Pathway\obj\Debug\Care Pathway.pdb
